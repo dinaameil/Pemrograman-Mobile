@@ -12,8 +12,10 @@ Tugas praktikum Flutter untuk mata kuliah Pemrograman Mobile. Aplikasi ini mende
 ## 📸 
 ![Praktikum 5](images/1-1.png)
 <video src="images/1-2.mov" width="300" controls></video>
+[Lihat Video Praktikum 5](images/1-2.mov)
 ![Tugas Praktikum2](images/2-1.png)
 <video src="images/2-2.mov" width="300" controls></video>
+[Lihat Video Tugas Praktikum](images/2-2.mov)
 
 ## 📝 
 *   **Nama:** Dina Mei Lestari
